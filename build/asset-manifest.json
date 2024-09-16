@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f081b782.css",
+    "main.js": "/static/js/main.7b5e7177.js",
+    "static/js/27.f0a2db8e.chunk.js": "/static/js/27.f0a2db8e.chunk.js",
+    "static/media/Saly-13.svg": "/static/media/Saly-13.a72aa8959e089fd8aca07df8be864b01.svg",
+    "static/media/avtme.jpg": "/static/media/avtme.b81b829bcb0e51da755e.jpg",
+    "static/media/wooder.jpg": "/static/media/wooder.165c7fa91ae1cad31e94.jpg",
+    "static/media/gbox.jpg": "/static/media/gbox.689e7e06fa1143e331c7.jpg",
+    "static/media/TheScientistRegular.woff": "/static/media/TheScientistRegular.d7f9d7b55cc5180adf46.woff",
+    "static/media/IvyJournal-Light.woff": "/static/media/IvyJournal-Light.f95154e1da99341e2f28.woff",
+    "static/media/IvyJournal-Regular.woff": "/static/media/IvyJournal-Regular.2c7883cd2cf6f25f9ac7.woff",
+    "static/media/TheScientistRegular.woff2": "/static/media/TheScientistRegular.e6f5e1e893880fe5113d.woff2",
+    "static/media/IvyJournal-Light.woff2": "/static/media/IvyJournal-Light.df785b1e59d1a8b1bc49.woff2",
+    "static/media/IvyJournal-Regular.woff2": "/static/media/IvyJournal-Regular.0ee894bd96ede43b5b6b.woff2",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/Arrow 1.svg": "/static/media/Arrow 1.319c42fe8e2f73129572c940e16aa994.svg"
+  },
+  "entrypoints": [
+    "static/css/main.f081b782.css",
+    "static/js/main.7b5e7177.js"
+  ]
+}

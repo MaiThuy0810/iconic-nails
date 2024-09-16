@@ -1,0 +1,27 @@
+.about{
+    .about-description {
+        padding-top: 80px;
+        // margin:0 200px;
+        width: 730px;
+        p{
+            color: #085069;
+            font-size: 18px;
+        }
+    }
+    .grid-card{
+        .wrapper-title{
+            text-align: center;
+            h1{
+                margin: 0px;
+            }
+            .list-card{
+                margin-top: 1.5rem;
+                margin-bottom: 20px;
+                padding: 0 100px;
+                display: grid;
+                grid-template-columns: 320px 320px 320px;
+                gap: 50px 15px;
+            }
+        }
+    }
+}
